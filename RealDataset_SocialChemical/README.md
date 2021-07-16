@@ -1,4 +1,4 @@
-# A Fair Comparison of Graph Neural Networks for Graph Classification (ICLR 2020)
+# Experiments on Social and Chemical Datasets
 
 ## Summary
 
